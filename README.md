@@ -4,4 +4,10 @@ Repositorio de la actividad clasificador perros y gatos del bootcamp IA innovado
 Contiene lo siguiente:
 
 -Dataset creado por estudiantes
--Notebook par agenerar dataset etiquetado y entrenar modelos de redes neuronales simples
+
+-Notebook para agenerar dataset etiquetado y entrenar modelos de redes neuronales simples
+
+## Descripción dataset 
+
+El dataset se encuentra en la carpeta DatasetPerrosGatos y contiene 38 imagenes de gatos y 56 imagenes de perros
+
